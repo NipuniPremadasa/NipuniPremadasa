@@ -9,7 +9,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Flutte and NestJS**
+- 🌱 I’m currently learning **Flutter and NestJS**
   
 - 🔭 I’m currently working on **"QuizUp" Educational App**
 
