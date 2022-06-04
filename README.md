@@ -3,7 +3,7 @@
 </div>
 
 
-<h1 align="center">Hello there! <img src="https://e7.pngegg.com/pngimages/788/537/png-clipart-human-hand-illustration-hand-waving-wave-emoji-goodbye-photography-hand.png" width="10px">, I'm Nipuni Premadasa</h1>
+<h1 align="center">Hello there! , I'm Nipuni Premadasa</h1>
 <h3 align="center">I'm pursuing BSc.(Hons) Information Technology degree at University of Moratuwa, Sri Lanka</h3>
 
 
