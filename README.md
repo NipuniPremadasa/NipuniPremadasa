@@ -3,7 +3,7 @@
 </div>
 
 
-<h1 align="center">Hello there! <img src="" width="10px">, I'm Nipuni Premadasa</h1>
+<h1 align="center">Hello there! <img src="https://c.tenor.com/4BkYeeOwEUgAAAAC/waving-wave.gif" width="10px">, I'm Nipuni Premadasa</h1>
 <h3 align="center">I'm pursuing BSc.(Hons) Information Technology degree at University of Moratuwa, Sri Lanka</h3>
 
 
