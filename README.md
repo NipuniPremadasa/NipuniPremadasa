@@ -9,7 +9,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Flutter, NextJS and NestJS**
+- 🌱 I’m currently learning **Angular and ASP.NET core**
 
 - 📫 How to reach me **nipunipremadasa923@@gmail.com** 
  <br/>
